@@ -1,3 +1,4 @@
+转自https://github.com/htbeker/Application_score_card
 # 信贷场景中什么是评分卡？
 
   1、以分数的形式来衡量风险几率的一种手段
